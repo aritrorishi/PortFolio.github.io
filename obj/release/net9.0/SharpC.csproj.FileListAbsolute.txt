@@ -1,0 +1,14 @@
+C:\Users\aritr\Desktop\f1\SharpC\bin\release\net9.0\SharpC.exe
+C:\Users\aritr\Desktop\f1\SharpC\bin\release\net9.0\SharpC.deps.json
+C:\Users\aritr\Desktop\f1\SharpC\bin\release\net9.0\SharpC.runtimeconfig.json
+C:\Users\aritr\Desktop\f1\SharpC\bin\release\net9.0\SharpC.dll
+C:\Users\aritr\Desktop\f1\SharpC\bin\release\net9.0\SharpC.pdb
+C:\Users\aritr\Desktop\f1\SharpC\obj\release\net9.0\SharpC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aritr\Desktop\f1\SharpC\obj\release\net9.0\SharpC.AssemblyInfoInputs.cache
+C:\Users\aritr\Desktop\f1\SharpC\obj\release\net9.0\SharpC.AssemblyInfo.cs
+C:\Users\aritr\Desktop\f1\SharpC\obj\release\net9.0\SharpC.csproj.CoreCompileInputs.cache
+C:\Users\aritr\Desktop\f1\SharpC\obj\release\net9.0\SharpC.dll
+C:\Users\aritr\Desktop\f1\SharpC\obj\release\net9.0\refint\SharpC.dll
+C:\Users\aritr\Desktop\f1\SharpC\obj\release\net9.0\SharpC.pdb
+C:\Users\aritr\Desktop\f1\SharpC\obj\release\net9.0\SharpC.genruntimeconfig.cache
+C:\Users\aritr\Desktop\f1\SharpC\obj\release\net9.0\ref\SharpC.dll
