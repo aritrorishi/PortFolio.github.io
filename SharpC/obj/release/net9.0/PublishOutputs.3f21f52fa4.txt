@@ -1,0 +1,5 @@
+C:\Users\aritr\Desktop\f1\SharpC\bin\release\net9.0\publish\SharpC.exe
+C:\Users\aritr\Desktop\f1\SharpC\bin\release\net9.0\publish\SharpC.dll
+C:\Users\aritr\Desktop\f1\SharpC\bin\release\net9.0\publish\SharpC.deps.json
+C:\Users\aritr\Desktop\f1\SharpC\bin\release\net9.0\publish\SharpC.runtimeconfig.json
+C:\Users\aritr\Desktop\f1\SharpC\bin\release\net9.0\publish\SharpC.pdb
