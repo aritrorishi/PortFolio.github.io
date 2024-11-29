@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aritr\\Desktop\\f1\\SharpC\\SharpC.csproj",
+      "projectUniqueName": "C:\\Users\\aritr\\Desktop\\New folder\\PortFolio.github.io\\SharpC\\SharpC.csproj",
       "projectName": "SharpC",
-      "projectPath": "C:\\Users\\aritr\\Desktop\\f1\\SharpC\\SharpC.csproj",
+      "projectPath": "C:\\Users\\aritr\\Desktop\\New folder\\PortFolio.github.io\\SharpC\\SharpC.csproj",
       "packagesPath": "C:\\Users\\aritr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aritr\\Desktop\\f1\\SharpC\\obj\\",
+      "outputPath": "C:\\Users\\aritr\\Desktop\\New folder\\PortFolio.github.io\\SharpC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aritr\\AppData\\Roaming\\NuGet\\NuGet.Config"
